@@ -1,2 +1,3 @@
 # hello-world
-Su7as First Repository
+Hi there,
+    I am new to Android programming.
